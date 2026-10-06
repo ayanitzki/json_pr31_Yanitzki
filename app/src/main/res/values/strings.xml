@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">json_pr31_Yanitzki</string>
+    <string name="textName">Программирование на Kotlin</string>
+    <string name="textPrice">1500.0</string>
+    <string name="textTags">учебник, программирование, android</string>
+    <string name="buttonProcess">Выполнить сериализацию и десериализацию</string>
+</resources>
